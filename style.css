@@ -1,0 +1,192 @@
+
+
+      .start_div{
+      box-sizing:border-box;
+      background-color:lightgray;
+      min-width: 345px;
+      position:center;
+      margin:0 auto;
+      margin:0px;
+      padding:0px;
+      }
+      
+      
+      
+      .header_div span{
+      background:#ebb915cb;
+      display:block;
+      text-align:center;
+      font-size:30px;
+      margin:0 auto;
+      padding: 25px 0px;
+      color: #000;
+      
+      } 
+      #total_menu{
+        max-width: 520px;  
+        margin: 0 auto;
+        display: block;
+        padding: 10px 0px;
+        
+      }     
+      .menu_bar{
+      background:black;
+      font-size:30px;
+      padding: 10px; 
+      
+      
+      }
+      .unoder_item{
+      list-style-type:none;
+      padding:0px;
+      margin:0px;
+      }
+      .menu_bar,ul,li{
+      
+      display:inline-block;
+      padding-left: 10px;
+      
+      }
+      
+      .menu_bar,ul,li,a{
+      text-decoration:none;
+      color:white;
+      
+      
+      }
+      
+      .header_image{
+        /* overflow: hidden;
+        clear: both; */
+      max-width:800px;
+      margin:0 auto;
+      height:300px;
+      background-color:#00ff00;
+      font-size:50px;
+      margin-top:15px;
+      position:relative;
+      }
+      .header_text{
+      position:absolute;
+      left:50%;
+      top:50%;      
+      transform: translate(-50%, -50%);
+      font-size:50px;       
+      color:white;
+      
+      }
+      
+      .servies_part{
+      box-sizing:border-box;
+      max-width:800px;
+      position:center;
+      display:flex;
+      margin:0 auto;
+      margin-top:50px;
+      }
+      
+      .about_compnay{
+      background-color:white;
+      padding:9px;
+      width:266px;
+      }
+      
+      .company_details{
+      margin-left:15px;
+      background-color:white;
+      padding:9px;
+      width:266px;
+      
+      }
+      
+      .services_compnay{
+      margin-left:15px;
+      background-color:white;
+      padding:9px;
+      width:266px;
+      }
+      
+      .compani_content{
+      background:white;
+      box-sizing:border-box;
+      max-width:800px;
+      display:flex;
+      margin:0 auto;
+      margin-top:25px;
+      margin-bottom: 25px;
+      
+      
+      }
+      .content_details{
+      
+      padding:0px 10px;
+      max-width:400px;
+      height:auto;
+      }
+           
+      .unorder_list{
+      background:lightgray;      
+      list-style-type:none;      
+      padding-right: 40px;
+      }
+      
+      .unorder_list li{
+      color:black;
+      display:block;
+      height:60px;
+      font-size:25px;
+      margin-top:8px;
+      }
+      
+      h5{
+      background:red;
+      max-width:800px;      
+      margin-top:20px;
+      text-align:center;
+      font-size:30px;
+      margin: 0 auto;
+      }
+      
+      .Gallary_image{
+      /* box-sizing:border-box; */
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      /* max-width:800px;
+      margin:0 auto; */
+      padding:10px;
+      
+      }
+      
+      .gallary-image{
+        
+        max-width:110px;
+        height:40px;
+        padding:25px;
+        margin-left: 4px;
+      }
+      .div1{
+      background:#e4c30b;
+      }
+      .div2{      
+      background:green;
+      }
+      .div3{
+      background:blue;
+      }
+      .div4{
+      background:gray;
+      }              
+      span{
+        box-sizing: border-box;
+      color:white;
+      font-size:23px;
+      
+      }
+      
+      /* .last_div{
+      background:brown;
+      width:800px;
+      height:90px;
+      } */
+      
